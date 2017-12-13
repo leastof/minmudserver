@@ -1,0 +1,12 @@
+{
+  "name": "minmud-server",
+  "version": "0.0.1",
+  "description": "minmud server component",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^1.7.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
